@@ -1,4 +1,9 @@
-<h1 align="center">Yuvraj Sankhla </h1>
+<!-- 🧬 Yuvraj Sankhla GitHub Profile README -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bioinformatics-avatars/bioinformatics-avatars/main/bioinfo_banner.gif" width="800" alt="Bioinformatics Banner" />
+</p>
+
+<h1 align="center">Yuvraj Sankhla</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Bioinformatics+Researcher;Genomic+Data+Science+Enthusiast;Turning+Data+into+Discovery+🧬" alt="Typing SVG" />
@@ -6,15 +11,17 @@
 
 <p align="center">
   <img src="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif" width="150" />
-   <img src="https://media1.tenor.com/m/xjaiIpRpK2QAAAAd/dna-code-code.gif" width="225"</p>
+  <img src="https://media1.tenor.com/m/xjaiIpRpK2QAAAAd/dna-code-code.gif" width="225" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTFvd3doY3I1NmVoYzZoM3dvNnU1NmU5eWk5OTIwbG9mY2dza3kybSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/x4unLoM3hApc2Cw5kO/giphy.gif" width="150" />
- 
+</p>
+
+---
 
 ### 🧫 **About Me**
 
-🔹 Bioinformatics researcher passionate about *genomic data science, Expressional studies(Transcriptomics),* and *AI-driven biological discovery.*  
+🔹 Bioinformatics researcher passionate about *genomic data science, expressional studies (transcriptomics),* and *AI-driven biological discovery.*  
 🔹 Previously worked on **haplotype-based positive selection analysis** in Indian populations at **Centre for Brain Research, IISc Bangalore.**  
-🔹 I love combining **data science, HPC automation, and  genomics** to uncover hidden evolutionary signals.  
+🔹 I love combining **data science, HPC automation, and genomics** to uncover hidden evolutionary signals.  
 🔹 Ranked **1st in M.Sc. Bioinformatics (93.1%)** at DAVV.  
 
 ---
@@ -23,7 +30,7 @@
 
 | Domain | Tools & Skills |
 |--------|----------------|
-| **Languages** | `Python` • `R` • `C++` • `Bash` • `SQL`• `HTML`• `CSS`|
+| **Languages** | `Python` • `R` • `C++` • `Bash` • `SQL` • `HTML` • `CSS` |
 | **Bioinformatics Tools** | `selscan` • `plink` • `vcftools` • `bcftools` • `bedtools` • `STAR` • `GATK` |
 | **Structural & Functional Bioinformatics** | `AlphaFold` • `MODELLER` • `AutoDock` • `PyMOL` • `IEDB` |
 | **Data Science & ML** | `pandas` • `numpy` • `matplotlib` • `scikit-learn` • `xgboost` |
@@ -78,8 +85,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/bioinformatics-avatars/bioinformatics-avatars/raw/main/dna_animation.gif" width="200"/>
-</p>
 
-<p align="center">"🧬🕸️With Great Data Comes Great Responsibility🕸️🧬"</p>
+<p align="center">🧬 <b>"With Great Data Comes Great Responsibility"</b> 🧬</p>
