@@ -25,7 +25,7 @@
 
 | Domain | Tools & Skills |
 |--------|----------------|
-| **Languages** | `Python` • `R` • `C++` • `Bash` • `SQL` • `HTML` • `CSS` |
+| **Languages** | `Python` • `R` • `C++` • `Bash` • `SQL` • `HTML` • `CSS`• `JAVASCRIPT` |
 | **Bioinformatics Tools** | `selscan` • `plink` • `vcftools` • `bcftools` • `bedtools` • `STAR` • `GATK` |
 | **Structural & Functional Bioinformatics** | `AlphaFold` • `MODELLER` • `AutoDock` • `PyMOL` • `IEDB` |
 | **Data Science & ML** | `pandas` • `numpy` • `matplotlib` • `scikit-learn` • `xgboost` |
