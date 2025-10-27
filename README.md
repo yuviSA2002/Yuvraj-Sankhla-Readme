@@ -1,8 +1,3 @@
-<!-- 🧬 Yuvraj Sankhla GitHub Profile README -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bioinformatics-avatars/bioinformatics-avatars/main/bioinfo_banner.gif" width="800" alt="Bioinformatics Banner" />
-</p>
-
 <h1 align="center">Yuvraj Sankhla</h1>
 
 <p align="center">
