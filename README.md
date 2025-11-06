@@ -29,7 +29,7 @@
 | **Bioinformatics Tools** | `selscan` • `plink` • `vcftools` • `bcftools` • `bedtools` • `STAR` • `GATK` |
 | **Structural & Functional Bioinformatics** | `AlphaFold` • `MODELLER` • `AutoDock` • `PyMOL` • `IEDB` |
 | **Data Science & ML** | `pandas` • `numpy` • `matplotlib` • `scikit-learn` • `xgboost` |
-| **HPC & Cloud** | `Linux` • `SLURM` • `Parallel Computing` • `AWS` |
+| **HPC & Cloud** | `Linux` • `SLURM` • `Parallel Computing` • `AWS`• `NEXTFLOW`• `DOCKER` |
 | **Databases** | `1000 Genomes` • `Ensembl` • `UniProt` • `TCGA` • `DrugBank` • `ZINC` |
 | **Development & Workflow** | `Git` • `Jupyter` • `RStudio` • `VS Code` |
 
